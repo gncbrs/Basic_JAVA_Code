@@ -24,3 +24,5 @@ public class Card {
     }
     
 }
+// Mind Game.
+// You have to use this file with Main.java.
