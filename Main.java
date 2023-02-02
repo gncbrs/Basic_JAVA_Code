@@ -1,3 +1,5 @@
+// Mind Game.
+// You have to use this file with Card.java.
 
 import java.util.Scanner;
 
@@ -90,6 +92,3 @@ public class Main {
             cards[i1][j1].setGuess(false);
         }
     }
-
-// Mind Game.
-// You have to use this file with Card.java.
