@@ -91,3 +91,5 @@ public class Main {
         }
     }
 
+// Mind Game.
+// You have to use this file with Card.java.
