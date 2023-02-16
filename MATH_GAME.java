@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Math_Game {
+public class MATH_GAME{
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
