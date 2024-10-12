@@ -1,4 +1,4 @@
-//Gönenç Barış Bezik & 220444034
+//Number guessing game by Gonenc Baris Bezik
 import java.util.Random;
 import java.util.Scanner;
 
